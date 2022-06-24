@@ -1,0 +1,80 @@
+980,restrict calls to emergency
+981,resume normal radio traffic
+10-1,reception good
+10-2,reception poor
+10-4,message received
+10-6,change channel
+10-7,out of service
+10-8,in service
+10-9,repeat
+10-10,off duty
+10-12,visitor
+10-13,road and traffic conditions
+10-15,prisoner in custody
+10-16,transporting prisonor
+10-17,servicing vehicle
+10-18,equipment exchange
+10-19,UCPD
+10-20,location
+10-21,phone
+10-22,disregard
+10-23,stand by
+10-24,CSO issuing citation
+10-25,do you have contact with
+10-26,clear
+10-27,CDL check
+10-28,vehicle registration check
+10-29,warrant check
+10-30,does not conform to regulation
+10-34,assist in office
+10-35,time check
+10-36,confidential information
+10-42,conduct welfare check
+10-49,proceeding to or en route
+10-59,security check
+10-60,lock out
+10-61,miscelleneous public service
+10-62,meeting a citizen
+10-63,prepare to copy
+10-73,radio check
+10-88,on post
+10-97,arrived on scene
+11-48,furnish transportation
+11-51,escort
+11-51e,CSO escort
+11-51h,CSO escort to or from RSSP property
+11-51f,CSO escort flagged down on RSSP property
+11-94,pedestrian stop
+11-95,routine traffic stop
+11-97,welfare and location check
+11-98,meet
+10-0,use caution
+10-33,alarm sounding
+10-33e,emergency alarm
+10-33f,fire alarm
+10-33i,intrusion alarm
+10-53,man down
+10-56,suicide
+10-56a,suicide attempt
+10-57,missing person
+10-67,person calling for help
+10-67x,female calling for help
+10-70,prowler
+10-79,bomb threat
+10-80,explosion
+10-91,animal case
+10-91v,vicious animal
+11-80,accident major injuries
+11-81,accident minor injuries
+11-82,accident no injuries
+11-83,accident no details
+11-99,OFFICER NEEDS HELP
+code 1,at your convenience
+code 2,urgent
+code 3,emergency
+code 4,no further questions
+code 5,stakeout
+code 6,on foot
+code 7,meal break
+code 33,mobile emergency clear channel
+code 34,end code 33
